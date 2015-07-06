@@ -7,7 +7,6 @@ please indicate in this document and leave the date the issue was fixed.
 Also note that many of the functions included in this toolbox are untested. New issues may arise.
 
 Tennessee Tech University
-Last Updated: 4/20/2015
 
 * Sensor Reading 
 ** Distance and Angle Readings are wrong    <----- Major Issue
